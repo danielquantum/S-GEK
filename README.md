@@ -1,5 +1,5 @@
 # S-GEK
-Bash and Python Scripts for benchmarking a new SCF optimizer using a subspace Gaussian Enhanced Kriging.
+Bash and Python Scripts for benchmarking a new SCF optimizer using a subspace Gaussian Enhanced Kriging as implemented in OpenMolcas.
 
 A data set of 2080 molecules consisting of:
 - Singlets
