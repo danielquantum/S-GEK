@@ -1,0 +1,15 @@
+&GATEWAY
+  Coord = $XYZ
+  Basis = $BASIS
+  Group = NoSym
+  RICD
+
+&SEWARD
+Grid
+NoScreen
+*Grid=Ultrafine
+End of Grid
+
+&SCF
+  $SCF
+  $Opt

@@ -1,0 +1,11 @@
+&GATEWAY
+  Coord = $XYZ
+  Basis = $BASIS
+  Group = NoSym
+  RICD
+
+&SEWARD
+
+&SCF
+  $SCF
+  $Opt
